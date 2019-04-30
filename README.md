@@ -1,2 +1,2 @@
 # core-java
-Core java study
+This branch use for core java study.
